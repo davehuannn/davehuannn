@@ -1,7 +1,7 @@
 
-<h3 align="center">
-Hi there, I'm <a href="https://www.davehuan.io/" target="_blank" rel="noreferrer">Dave</a> 👋
-</h3>
+<h1 align="center">
+Hey, I'm <a href="https://www.davehuan.io/" target="_blank" rel="noreferrer">Dave</a> 👋
+</h1>
 
 <h2 align="center">
 I'm a Tinkerer 💻 !
